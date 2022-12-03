@@ -1,0 +1,21 @@
+{
+  "name": "03.forecaster",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.3.7",
+    "http-server": "^14.1.1",
+    "lit-html": "^2.4.0",
+    "mocha": "^10.1.0",
+    "playwright-chromium": "^1.28.0"
+  }
+}
